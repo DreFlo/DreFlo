@@ -29,6 +29,10 @@ Automatically migrate CI/CD pipelines between platforms like GitHub Actions and 
 
 Get predictions of future stock prices. Have those predictions explained to you in natural language and with a degree of confidence.
 
+### [Art Attack, Linked Open Data Art Search Engine](https://github.com/diogof19/WSDL-2324/tree/main)
+
+A search engine for art built on linked-open data. Art Attack pools data from various public sources, namely the Smithsonian American Art Museum, DBPedia, and Wikidata.
+
 ### [Singer, A Decentralized Social Network](https://github.com/diogof19/FEUP-SDLE-PROJ2)
 
 A social network where users can post, follow other users, and like posts. Fault-tolerant.
