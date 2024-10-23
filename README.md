@@ -37,6 +37,6 @@ A search engine for art built on linked-open data. Art Attack pools data from va
 
 A social network where users can post, follow other users, and like posts. Fault-tolerant.
 
-### [RecFlix, Movie and TV Show Recommendation Engine]([https://github.com/diogof19/FEUP-SDLE-PROJ2](https://github.com/DreFlo/pri-2223))
+### [RecFlix, Movie and TV Show Recommendation Engine](https://github.com/DreFlo/pri-2223)
 
 A movie and tv show search engine that recommends similar titles to users.
